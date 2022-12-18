@@ -1,0 +1,44 @@
+C:\Users\EnesFaruk\source\repos\HuntingGame1\HuntingGame1\obj\Debug\HuntingGame1.Form1.resources
+C:\Users\EnesFaruk\source\repos\HuntingGame1\HuntingGame1\obj\Debug\HuntingGame1.Game.resources
+C:\Users\EnesFaruk\source\repos\HuntingGame1\HuntingGame1\obj\Debug\HuntingGame1.Properties.Resources.resources
+C:\Users\EnesFaruk\source\repos\HuntingGame1\HuntingGame1\obj\Debug\HuntingGame1.csproj.GenerateResource.cache
+C:\Users\EnesFaruk\source\repos\HuntingGame1\HuntingGame1\obj\Debug\HuntingGame1.csproj.CoreCompileInputs.cache
+C:\Users\EnesFaruk\source\repos\HuntingGame1\HuntingGame1\bin\Debug\HuntingGame1.exe.config
+C:\Users\EnesFaruk\source\repos\HuntingGame1\HuntingGame1\bin\Debug\HuntingGame1.exe
+C:\Users\EnesFaruk\source\repos\HuntingGame1\HuntingGame1\bin\Debug\HuntingGame1.pdb
+C:\Users\EnesFaruk\source\repos\HuntingGame1\HuntingGame1\obj\Debug\HuntingGame1.exe
+C:\Users\EnesFaruk\source\repos\HuntingGame1\HuntingGame1\obj\Debug\HuntingGame1.pdb
+C:\Users\EnesFaruk\source\repos\HuntingGame1\HuntingGame1\obj\Debug\HuntingGame1.csprojAssemblyReference.cache
+C:\Users\EnesFaruk\Desktop\yourid_WoundedWarriors_Project 2\HuntingGame1\HuntingGame1\obj\Debug\HuntingGame1.csprojAssemblyReference.cache
+C:\Users\EnesFaruk\Desktop\yourid_WoundedWarriors_Project 2\HuntingGame1\HuntingGame1\obj\Debug\HuntingGame1.Form1.resources
+C:\Users\EnesFaruk\Desktop\yourid_WoundedWarriors_Project 2\HuntingGame1\HuntingGame1\obj\Debug\HuntingGame1.Game.resources
+C:\Users\EnesFaruk\Desktop\yourid_WoundedWarriors_Project 2\HuntingGame1\HuntingGame1\obj\Debug\HuntingGame1.csproj.GenerateResource.cache
+C:\Users\EnesFaruk\Desktop\yourid_WoundedWarriors_Project 2\HuntingGame1\HuntingGame1\obj\Debug\HuntingGame1.exe
+C:\Users\EnesFaruk\Desktop\yourid_WoundedWarriors_Project 2\HuntingGame1\HuntingGame1\obj\Debug\HuntingGame1.pdb
+C:\Users\EnesFaruk\Desktop\yourid_WoundedWarriors_Project 2\HuntingGame1\HuntingGame1\bin\Debug\HuntingGame1.exe.config
+C:\Users\EnesFaruk\Desktop\yourid_WoundedWarriors_Project 2\HuntingGame1\HuntingGame1\bin\Debug\HuntingGame1.exe
+C:\Users\EnesFaruk\Desktop\yourid_WoundedWarriors_Project 2\HuntingGame1\HuntingGame1\bin\Debug\HuntingGame1.pdb
+C:\Users\EnesFaruk\Desktop\yourid_WoundedWarriors_Project 2\HuntingGame1\HuntingGame1\obj\Debug\HuntingGame1.Properties.Resources.resources
+C:\Users\EnesFaruk\Desktop\yourid_WoundedWarriors_Project 2\HuntingGame1\HuntingGame1\obj\Debug\HuntingGame1.csproj.CoreCompileInputs.cache
+C:\Users\EnesFaruk\Desktop\55084_WoundedWarriors_Project 2\HuntingGame1\HuntingGame1\bin\Debug\HuntingGame1.exe.config
+C:\Users\EnesFaruk\Desktop\55084_WoundedWarriors_Project 2\HuntingGame1\HuntingGame1\bin\Debug\HuntingGame1.exe
+C:\Users\EnesFaruk\Desktop\55084_WoundedWarriors_Project 2\HuntingGame1\HuntingGame1\bin\Debug\HuntingGame1.pdb
+C:\Users\EnesFaruk\Desktop\55084_WoundedWarriors_Project 2\HuntingGame1\HuntingGame1\obj\Debug\HuntingGame1.csprojAssemblyReference.cache
+C:\Users\EnesFaruk\Desktop\55084_WoundedWarriors_Project 2\HuntingGame1\HuntingGame1\obj\Debug\HuntingGame1.Form1.resources
+C:\Users\EnesFaruk\Desktop\55084_WoundedWarriors_Project 2\HuntingGame1\HuntingGame1\obj\Debug\HuntingGame1.Game.resources
+C:\Users\EnesFaruk\Desktop\55084_WoundedWarriors_Project 2\HuntingGame1\HuntingGame1\obj\Debug\HuntingGame1.Properties.Resources.resources
+C:\Users\EnesFaruk\Desktop\55084_WoundedWarriors_Project 2\HuntingGame1\HuntingGame1\obj\Debug\HuntingGame1.csproj.GenerateResource.cache
+C:\Users\EnesFaruk\Desktop\55084_WoundedWarriors_Project 2\HuntingGame1\HuntingGame1\obj\Debug\HuntingGame1.csproj.CoreCompileInputs.cache
+C:\Users\EnesFaruk\Desktop\55084_WoundedWarriors_Project 2\HuntingGame1\HuntingGame1\obj\Debug\HuntingGame1.exe
+C:\Users\EnesFaruk\Desktop\55084_WoundedWarriors_Project 2\HuntingGame1\HuntingGame1\obj\Debug\HuntingGame1.pdb
+C:\Users\aerol\Desktop\55084_WoundedWarriors_Project 2\HuntingGame1\HuntingGame1\bin\Debug\HuntingGame1.exe.config
+C:\Users\aerol\Desktop\55084_WoundedWarriors_Project 2\HuntingGame1\HuntingGame1\bin\Debug\HuntingGame1.exe
+C:\Users\aerol\Desktop\55084_WoundedWarriors_Project 2\HuntingGame1\HuntingGame1\bin\Debug\HuntingGame1.pdb
+C:\Users\aerol\Desktop\55084_WoundedWarriors_Project 2\HuntingGame1\HuntingGame1\obj\Debug\HuntingGame1.csproj.AssemblyReference.cache
+C:\Users\aerol\Desktop\55084_WoundedWarriors_Project 2\HuntingGame1\HuntingGame1\obj\Debug\HuntingGame1.Form1.resources
+C:\Users\aerol\Desktop\55084_WoundedWarriors_Project 2\HuntingGame1\HuntingGame1\obj\Debug\HuntingGame1.Game.resources
+C:\Users\aerol\Desktop\55084_WoundedWarriors_Project 2\HuntingGame1\HuntingGame1\obj\Debug\HuntingGame1.Properties.Resources.resources
+C:\Users\aerol\Desktop\55084_WoundedWarriors_Project 2\HuntingGame1\HuntingGame1\obj\Debug\HuntingGame1.csproj.GenerateResource.cache
+C:\Users\aerol\Desktop\55084_WoundedWarriors_Project 2\HuntingGame1\HuntingGame1\obj\Debug\HuntingGame1.csproj.CoreCompileInputs.cache
+C:\Users\aerol\Desktop\55084_WoundedWarriors_Project 2\HuntingGame1\HuntingGame1\obj\Debug\HuntingGame1.exe
+C:\Users\aerol\Desktop\55084_WoundedWarriors_Project 2\HuntingGame1\HuntingGame1\obj\Debug\HuntingGame1.pdb
